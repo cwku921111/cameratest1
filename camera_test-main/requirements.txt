@@ -1,8 +1,0 @@
-flask
-pillow
-numpy
-cloudinary
-pymongo
-python-dotenv
-gunicorn
-opencv-python
